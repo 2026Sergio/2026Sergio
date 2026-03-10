@@ -2,29 +2,24 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
 
-# HOLA SOY SERGIO 🧠 💡
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> HOLA SOY SERGIO 🧠 💡</a></h3>
 
-·👨‍💻Soy estudiante de programacion.
-·🖥️Aprendiendo desarrollo de sofware.
-·🐍Actualmente trabajando en python.
+· 👨‍💻Soy estudiante de programacion.
+· 🖥️Aprendiendo desarrollo de sofware.
+· 🐍Actualmente trabajando en python.
 
 
 ## tecnologias que estoy aprendiendo
-[![My Skills](https://skillicons.dev/icons?i=python,github,vscode,java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,github,vscode)](https://skillicons.dev)
 
 . python
 . visual studio
 . GitHub
-. Java
-. Javascript
-. CSS
-. HTML
-
 
 ## Mis objetivos 
 📚Mejorar mis habilidades de programador
 🌌Crear proyectos utiles
-👨‍💻Conseguir trabajo como desarrollador
+👨‍💻Conseguir trabajo como desarrollador backend
 
 
 
@@ -46,3 +41,7 @@
 </p>
 
 # 🚀Gracias por visitar mi perfil
+
+<p align="center">
+  <img src="https://techcrunch.com/wp-content/uploads/2014/06/surprised-andy.gif" width="400"/>
+</p>
