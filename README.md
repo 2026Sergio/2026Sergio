@@ -8,6 +8,10 @@
 · 🖥️Aprendiendo desarrollo de sofware.
 · 🐍Actualmente trabajando en python.
 
+# manejo de idiomas 
+
+| manejo de idiomas |
+| ingles | A.1 | 
 
 ## tecnologias que estoy aprendiendo
 [![My Skills](https://skillicons.dev/icons?i=python,github,vscode)](https://skillicons.dev)
