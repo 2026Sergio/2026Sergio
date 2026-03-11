@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" height="300"/>
-</p>
-
-
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> HOLA SOY SERGIO 🧠 💡</a></h3>
 
 <table>
@@ -15,16 +10,32 @@
 
 </td>
 <td>
-<img src="https://techcrunch.com/wp-content/uploads/2014/06/surprised-andy.gif" width="300"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" height="200"/>
+</p>
 </td>
 </tr>
 </table>
 
 ## 🎯 Mis objetivos
 
+
+<table>
+<tr>
+<td>
+  
 - 📚 Mejorar mis habilidades de programador
 - 🌌 Crear proyectos útiles
 - 👨‍💻 Conseguir trabajo como desarrollador backend
+
+</td>
+<td>
+<p align="center">
+<img src="https://techcrunch.com/wp-content/uploads/2014/06/surprised-andy.gif" width="300"/>
+</p>
+</td>
+</tr>
+</table>
 
 ## 🌎 Manejo de idiomas
 
