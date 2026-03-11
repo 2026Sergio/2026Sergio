@@ -1,31 +1,41 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" height="300"/>
 </p>
+
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> HOLA SOY SERGIO 🧠 💡</a></h3>
 
-· 👨‍💻Soy estudiante de programacion.
-· 🖥️Aprendiendo desarrollo de sofware.
-· 🐍Actualmente trabajando en python.
+<table>
+<tr>
+<td>
 
-# manejo de idiomas 
+- 👨‍💻 Soy estudiante de programación  
+- 🖥️ Aprendiendo desarrollo de software  
+- 🐍 Actualmente trabajando en Python  
 
-| manejo de idiomas |
-| ingles | A.1 | 
+</td>
+<td>
+<img src="https://techcrunch.com/wp-content/uploads/2014/06/surprised-andy.gif" width="300"/>
+</td>
+</tr>
+</table>
 
-## tecnologias que estoy aprendiendo
-[![My Skills](https://skillicons.dev/icons?i=python,github,vscode)](https://skillicons.dev)
+## 🚀 Tecnologías que estoy aprendiendo y quiero aprender
 
-. python
-. visual studio
-. GitHub
+| Python | Java | JavaScript | SQL | HTML | CSS | Backend | Bases de datos | GitHub | Visual Studio | Visual Studio (Microsoft) |
+|--------|------|------------|-----|------|-----|---------|----------------|--------|---------------|--------------------------|
+| ![Python](https://skillicons.dev/icons?i=python) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![SQL](https://skillicons.dev/icons?i=mysql) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Backend](https://skillicons.dev/icons?i=nodejs) | ![Database](https://skillicons.dev/icons?i=postgres) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) |
 
-## Mis objetivos 
-📚Mejorar mis habilidades de programador
-🌌Crear proyectos utiles
-👨‍💻Conseguir trabajo como desarrollador backend
+## 🌎 Manejo de idiomas
 
+| Idioma | Nivel |
+|--------|-------|
+| Inglés | A.1   |
 
+## 🎯 Mis objetivos
+- 📚 Mejorar mis habilidades de programador
+- 🌌 Crear proyectos útiles
+- 👨‍💻 Conseguir trabajo como desarrollador backend
 
 ## 🌐 Puedes buscarme como
 
@@ -46,6 +56,7 @@
 
 # 🚀Gracias por visitar mi perfil
 
-<p align="center">
-  <img src="https://techcrunch.com/wp-content/uploads/2014/06/surprised-andy.gif" width="400"/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
+
+
