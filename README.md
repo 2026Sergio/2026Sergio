@@ -20,11 +20,11 @@
 </tr>
 </table>
 
-## 🚀 Tecnologías que estoy aprendiendo y quiero aprender
+## 🎯 Mis objetivos
 
-| Python | Java | JavaScript | SQL | HTML | CSS | Backend | Bases de datos | GitHub | Visual Studio | Visual Studio (Microsoft) |
-|--------|------|------------|-----|------|-----|---------|----------------|--------|---------------|--------------------------|
-| ![Python](https://skillicons.dev/icons?i=python) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![SQL](https://skillicons.dev/icons?i=mysql) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Backend](https://skillicons.dev/icons?i=nodejs) | ![Database](https://skillicons.dev/icons?i=postgres) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) |
+- 📚 Mejorar mis habilidades de programador
+- 🌌 Crear proyectos útiles
+- 👨‍💻 Conseguir trabajo como desarrollador backend
 
 ## 🌎 Manejo de idiomas
 
@@ -32,10 +32,11 @@
 |--------|-------|
 | Inglés | A.1   |
 
-## 🎯 Mis objetivos
-- 📚 Mejorar mis habilidades de programador
-- 🌌 Crear proyectos útiles
-- 👨‍💻 Conseguir trabajo como desarrollador backend
+## 🚀 Tecnologías que estoy aprendiendo y quiero aprender
+
+| Python | Java | JavaScript | SQL | HTML | CSS | Backend | Bases de datos | GitHub | Visual Studio | Visual Studio (Microsoft) |
+|--------|------|------------|-----|------|-----|---------|----------------|--------|---------------|--------------------------|
+| ![Python](https://skillicons.dev/icons?i=python) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![SQL](https://skillicons.dev/icons?i=mysql) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Backend](https://skillicons.dev/icons?i=nodejs) | ![Database](https://skillicons.dev/icons?i=postgres) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) |
 
 ## 🌐 Puedes buscarme como
 
