@@ -41,7 +41,7 @@
 
 | Idioma | Nivel |
 |--------|-------|
-| Inglés | A.1   |
+| Inglés | A.2   |
 
 ## 🚀 Tecnologías que estoy aprendiendo y quiero aprender
 
