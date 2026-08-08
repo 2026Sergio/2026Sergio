@@ -1,81 +1,70 @@
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> HOLA SOY SERGIO 🧠 💡</a></h3>
+<div align="center">
 
-<table>
-<tr>
-<td>
+# SERGIO RICARDO AJÚ MIRANDA
 
-- 👨‍💻 Estudiante de programación backend 
-- 🏥 Apasionado por la innovación digital, la gestión de datos.
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=DESARROLADOR+DE+SOFTWARE;PYTHON+JAVASCRIPT;FRONTEND;HTML+CSS;BACKEND;MYSQL_1)
 
-</td>
-<td>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" height="200"/>
-</p>
-</td>
-</tr>
-</table>
+[![Profile views](https://komarev.com/ghpvc/?username=lestergarcia711&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/20026sergio)
+[![GitHub](https://img.shields.io/badge/GitHub-2026sergio-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2026sergio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](sergio-aju-dev)
 
-## 🎯 Mis objetivos
+</div>
 
-<table>
-<tr>
-<td>
-  
-- 📚 **Dominar la arquitectura backend** y el diseño de bases de datos seguras para el manejo de información.
-- 🏥 **Construir soluciones escalables** (como APIs robustas y sistemas de gestión) que optimicen los flujos.
-- 🔒 **Familiarizarme con estándares de interoperabilidad** y ciberseguridad médica para proteger la privacidad.
-- 👨‍💻 **Consolidarme profesionalmente** como Desarrollador Backend en empresas e iniciativas de innovación.
+---
 
-</td>
-<td>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="" width="500" />
-</p>
-</td>
-</tr>
-</table>
+## Identidad tecnica
 
-## 🌎 Manejo de idiomas
+**Desarrollador Backend Junior** en formación en **Campuslands**, con experiencia en lógica de programación, modelado de bases de datos y creación de soluciones automatizadas. 
 
-| Idioma | Nivel |
-|--------|-------|
-| Inglés | A.2   |
+Integro fortalezas operativas y de alta exigencia con competencias técnicas en **Python, JavaScript y MySQL**, apuntando a la innovación en el sector tecnológico y **HealthTech**. Manejo de control de versiones con Git y despliegue de flujos automatizados.
 
-## 🚀 Tecnologías y Módulos de Estudio (Enfoque HealthTech)
+## Arsenal Campuslands
 
-| Módulo / Tecnología | Enfoque / Herramientas |
-| :--- | :--- |
-| **Python I** | ![Python](https://skillicons.dev/icons?i=python) Lógica y desarrollo backend |
-| **HTML + CSS** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) Maquetación web y interfaces |
-| **JavaScript** | ![JavaScript](https://skillicons.dev/icons?i=javascript) Lógica interactiva y cliente-servidor |
-| **MySQL I** | ![MySQL](https://skillicons.dev/icons?i=mysql) Gestión y almacenamiento de datos |
-| **Introducción al Backend y Bases de Datos** | ![Backend](https://skillicons.dev/icons?i=nodejs) ![Database](https://skillicons.dev/icons?i=postgres) Arquitectura de servidores |
-| **Scrum y Metodologías Ágiles** | Gestión de proyectos |
-| **GitHub y Control de versiones** | ![GitHub](https://skillicons.dev/icons?i=github) Control de código colaborativo |
-| **Introducción a la IA con Python** | ![Python](https://skillicons.dev/icons?i=python) Automatización e IA aplicada |
-| **Uso de la IA en Proyectos Web** | Integración de herramientas inteligentes |
-| **Inteligencia Artificial I** | Modelos y optimización de procesos |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,github,git,vscode,html,css,js,mysql,docker," alt="Stack Campuslands" />
+</div>
 
-## 🌐 Puedes buscarme como
+```text
+Frontend -> HTML Y CSS
+Backend  -> PYTHON, JAVASCRIPT.
+Datos    -> MYSQL. GOOGLE SHEETS (AUTOMATIZACIONES)
+Tools    -> VISUAL CODE, GIT, GITHUB, DOCKER.IA, N8N
+```
 
-<p align="center">
-  <a href="https://www.facebook.com/TU-USUARIO">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/>Sergio Ajù
-  </a>
-  <a href="https://www.instagram.com/TU-USUARIO">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>Sergio Ajù
-  </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>Sergio Ajù
-  </a>
-  <a href="https://www.tiktok.com/@TU-USUARIO">
-    <img src="https://img.icons8.com/fluency/48/000000/tiktok.png" alt="TikTok"/>Sergio XD
-  </a>
-</p>
+## Misiones destacadas
 
-# 🚀 Gracias por visitar mi perfil
+| Mision | Resultado esperado | Tecnologias | Link |
+|---|---|---|---|
+| Venta de ropa en linea | Aumentar Clientela y actualizacion de productos nuevos | HTML, CSS | [Abrir](https://github.com/2026Sergio/CampusShop-.git) |
+|Sistema para un parqueo|Mejorar Servicio al cliente, evitar la perdida de datos, mejor manejo de informacion y rapidez. | HTML, CSS Y JAVASCRIPT | [Abrir](https://github.com/2026Sergio/Proyecto_JavaScript_AjuSergio.git)|
+|Sistema para un parqueo|consumir una api a serca de covid y casos en tiempo real. | HTML, CSS Y JAVASCRIPT | [Abrir](https://github.com/2026Sergio/API_javascript.git)|
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
 
+## Senales de actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2026sergio&theme=react-dark&hide_border=true&area=true&radius=12" alt="Actividad reciente" width="98%" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2026sergio&theme=github_dark" alt="Repos por lenguaje" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2026sergio&theme=github_dark" alt="Stats" />
+</div>
+
+## Principios de trabajo
+
+- Evitar trabajar sobre la rama main.
+-Creacion de carpetas con criterio.
+- Crear ramas por separado para separar responsabilidades.
+- Documentar cada integracion o modificacion hecha.
+- Commits elaborados profesionalmente, usando infinitivos.
+- Hacer pull requests.
+
+---
+
+<div align="center">
+
+
+**mirandasegio550@gmail.com |  https://2026sergio.github.io/portafolio-sergio/ |   agosto 2026**
+
+</div>
