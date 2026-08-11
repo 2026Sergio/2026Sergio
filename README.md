@@ -1,10 +1,12 @@
 <div align="center">
 
-# SERGIO RICARDO AJÚ MIRANDA
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Sergio+Ricardo+Ajú+Miranda&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desarrollador+Web+Junior&descAlignY=58&descSize=18" alt=" " width="100%" />
+</div>
 
 ![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=DESARROLADOR+DE+SOFTWARE;PYTHON+JAVASCRIPT;FRONTEND;HTML+CSS;BACKEND;MYSQL_1)
 
-[![Profile views](https://komarev.com/ghpvc/?username=lestergarcia711&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/20026sergio)
+[![Profile views](https://komarev.com/ghpvc/?username=2026Sergiostyle=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/20026sergio)
 [![GitHub](https://img.shields.io/badge/GitHub-2026sergio-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2026sergio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](sergio-aju-dev)
 
@@ -37,7 +39,7 @@ Tools    -> VISUAL CODE, GIT, GITHUB, DOCKER.IA, N8N
 |---|---|---|---|
 | Venta de ropa en linea | Aumentar Clientela y actualizacion de productos nuevos | HTML, CSS | [Abrir](https://github.com/2026Sergio/CampusShop-.git) |
 |Sistema para un parqueo|Mejorar Servicio al cliente, evitar la perdida de datos, mejor manejo de informacion y rapidez. | HTML, CSS Y JAVASCRIPT | [Abrir](https://github.com/2026Sergio/Proyecto_JavaScript_AjuSergio.git)|
-|Sistema para un parqueo|consumir una api a serca de covid y casos en tiempo real. | HTML, CSS Y JAVASCRIPT | [Abrir](https://github.com/2026Sergio/API_javascript.git)|
+|Api casos covid 19|consumir una api a serca de covid y casos en tiempo real. | HTML, CSS Y JAVASCRIPT | [Abrir](https://github.com/2026Sergio/API_javascript.git)|
 
 
 ## Senales de actividad
