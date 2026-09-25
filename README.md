@@ -8,10 +8,9 @@
 Estudiante de Tecnico en Desarrollo de software · Guatemala 🇬🇹 
 
 [![GitHub](https://img.shields.io/badge/GitHub-2026Sergio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2026Sergio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sergioaju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SergioAju/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sergioaju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-aj%C3%BA-05630b3aa/)
 [![Email](https://img.shields.io/badge/Email-Contacto-9C52E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirandasegio550@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portafoliosergioaju.pamcing.me/)
-
+[![Portafolio](https://img.shields.io/badge/Portafolio-023e8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2026sergio.github.io/portafoliosergio-8-4/)
 </div>
 
 ## Sobre mí
