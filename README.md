@@ -130,8 +130,8 @@ proximamente
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/mirandasegio550%40gmail.com-0077b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirandasegio550@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-023e8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2026sergio.github.io/portafolio-sergio/)
+[![Email](https://img.shields.io/badge/mirandasegio550%40gmail.com-0077b6?style=for-the-badge&logo=gmail&logoColor=white)](mirandasegio550@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-023e8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2026sergio.github.io/portafoliosergio-8-4/)
 [![Fecha](https://img.shields.io/badge/Actualizado--septiembre%202026-00b4d8?style=for-the-badge&logo=git&logoColor=white)](https://github.com/2026sergio)
 
 </div>
