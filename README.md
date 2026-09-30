@@ -23,9 +23,11 @@ Apasionado por la tecnología y la resolución de problemas lógicos. Actualment
     Prácticas de integración, consumo de APIs y automatización.
 Sigo aprendiendo todos los días y construyendo código más limpio y estructurado.
 
-- **Bootcamp:** Desarrolladora Full Stack en **Campuslands Guatemala** — ![En curso]
--  **Tecnico en desarrollo de software:** Frontend, backend, bases de datos SQL/NoSQL y automatización de flujos.
--  **Mis pasiones:** Futbol, ver documentales, la musica, aire libre para desestresarme.
+ **Bootcamp:** Desarrolladora Full Stack en **Campuslands Guatemala** — ![En curso]
+ 
+  **Tecnico en desarrollo de software:** Frontend, backend, bases de datos SQL/NoSQL y automatización de flujos.
+  
+ **Mis pasiones:** Futbol, ver documentales, la musica, aire libre para desestresarme.
 
 ## Stack técnico
 
@@ -125,7 +127,7 @@ proximamente
 - Commits elaborados profesionalmente, usando infinitivos.
 - Hacer pull requests.
   
-## 📫 Contáctame
+## Contáctame
 
 <div align="center">
 
